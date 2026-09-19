@@ -39,5 +39,6 @@ while True:
 
     # Save the AI's answer too
     messages.append(response)
+    ## new comment
 
     print(f"Bot: {response.content}\n")
